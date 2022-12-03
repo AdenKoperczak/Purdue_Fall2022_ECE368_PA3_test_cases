@@ -1,0 +1,6 @@
+view_images.sh
+Makefile
+*.py
+*.swp
+Results
+Results/*
