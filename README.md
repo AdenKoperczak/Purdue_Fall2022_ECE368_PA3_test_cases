@@ -1,8 +1,6 @@
-# Test Cases
-Unzip this into a subfolder of your project and run `./run_tests.sh`.
-This assumes your executable is names `pa3`, and located one directory up
-(`../pa3`).
-This will run your program on each test case, and compare the outputs to my outputs.
+# Running
+The script `run_tests.sh` will run the program "../pa3" on all the test cases 
+contained in this repocitory. You can also run them manually.
 
 # Naming
 With the exception of max\_output, all grids use the same naming convention
@@ -29,5 +27,3 @@ max out the distance of the path.
 The paths for "r" and "p" files may not come out to be exactly the same path files.
 This is because there may be multiple paths with the same distance. As long as 
 the fastest files match up these can be counted as passed.
-
-
