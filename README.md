@@ -1,6 +1,6 @@
 # Running
 The script `run_tests.sh` will run the program "../pa3" on all the test cases 
-contained in this repocitory. You can also run them manually.
+contained in this repository. You can also run them manually.
 
 # Naming
 With the exception of max\_output, all grids use the same naming convention
@@ -20,7 +20,7 @@ max out the distance of the path.
 
 ## Types
 - r: a fully random grid
-- p: a perlin noise randm grid
+- p: a Perlin noise random grid
 - s: a "snake" grid
 
 # Inexact Paths
